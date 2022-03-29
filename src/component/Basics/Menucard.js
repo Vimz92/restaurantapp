@@ -8,10 +8,11 @@ export const Menucard = ({ menuData }) => {
             {menuData.map((curElem) => {
            return(
             <>
+               <h1> Welcome to Vimal's Restaurant </h1>
         <div className="card-container" key={curElem.id}>
                     <div className="card">
                         <div className="card-body">
-                            <h1> Welcome to Vimal's Restaurant </h1>
+                            
                             <span className="card-number card-circle subtle"> {curElem.id} </span>
                             <span className="card-author subtle"> {curElem.name} </span>
                             <h2 className="card-title"> {curElem.name} </h2>
