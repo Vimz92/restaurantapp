@@ -8,7 +8,7 @@ export const Menucard = ({ menuData }) => {
             {menuData.map((curElem) => {
            return(
             <>
-               <h1> Welcome to Vimal's Restaurant </h1>
+            
         <div className="card-container" key={curElem.id}>
                     <div className="card">
                         <div className="card-body">
