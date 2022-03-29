@@ -4,7 +4,7 @@ const Menu = [{
     name: "maggi",
     category: "Breakfast",
     price: "$15",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. A, dolore!"
+    description: "Delicious Maggi"
  },
  
  {
@@ -13,7 +13,7 @@ const Menu = [{
     name: "pasta",
     category: "Evening",
     price: "$25",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. A, dolore!"
+    description: "Delicious Pasta!"
  },
  
  {
@@ -22,7 +22,7 @@ const Menu = [{
     name: "porotta",
     category: "Lunch",
     price: "$35",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. A, dolore!"
+    description: "Delicious Porotta!"
  },
  
 
@@ -32,7 +32,7 @@ const Menu = [{
     name: "Idli",
     category: "Breakfast",
     price: "$45",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. A, dolore!"
+    description: "Delicious Idli!"
  },
  
  
@@ -42,7 +42,7 @@ const Menu = [{
     name: "Biriyani",
     category: "Lunch",
     price: "$55",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. A, dolore!"
+    description: "Delicious Biriyani!"
  },
  
  
@@ -52,7 +52,7 @@ const Menu = [{
     name: "Rusk",
     category: "Evening",
     price: "$65",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. A, dolore!"
+    description: "Delicious Rusk!"
  },
  
  {
@@ -61,7 +61,7 @@ const Menu = [{
     name: "Chicken",
     category: "Dinner",
     price: "$75",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. A, dolore!"
+    description: "Delicious Chicken!"
  },
  
  {
@@ -70,7 +70,7 @@ const Menu = [{
     name: "Mutton curry",
     category: "Dinner",
     price: "$25",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. A, dolore!"
+    description: "Mutton curry!"
  },
 ]
 
